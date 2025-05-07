@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: d0b2d3f6cb7e0414cba134f0f679ee31
+timeCreated: 1518561495
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BodyPart1
+    100004: BodyPart2
+    100006: BodyPart3
+    100008: BoneBody
+    100010: BoneChassisL
+    100012: BoneChassisR
+    100014: BoneEngineShake
+    100016: BoneScrew
+    100018: BoneWeapBody
+    100020: BoneWeapWingL
+    100022: BoneWeapWingR
+    100024: Engine
+    100026: GunEnd_WeapBodyL
+    100028: GunEnd_WeapBodyR
+    100030: GunEnd_WeapScrew
+    100032: GunEnd_WeapWingL
+    100034: GunEnd_WeapWingR
+    100036: root
+    100038: Screw
+    100040: WeapBody
+    100042: WeapWingL
+    100044: WeapWingR
+    100046: WheelL
+    100048: WheelR
+    100050: WingL
+    100052: WingR
+    400000: //RootNode
+    400002: BodyPart1
+    400004: BodyPart2
+    400006: BodyPart3
+    400008: BoneBody
+    400010: BoneChassisL
+    400012: BoneChassisR
+    400014: BoneEngineShake
+    400016: BoneScrew
+    400018: BoneWeapBody
+    400020: BoneWeapWingL
+    400022: BoneWeapWingR
+    400024: Engine
+    400026: GunEnd_WeapBodyL
+    400028: GunEnd_WeapBodyR
+    400030: GunEnd_WeapScrew
+    400032: GunEnd_WeapWingL
+    400034: GunEnd_WeapWingR
+    400036: root
+    400038: Screw
+    400040: WeapBody
+    400042: WeapWingL
+    400044: WeapWingR
+    400046: WheelL
+    400048: WheelR
+    400050: WingL
+    400052: WingR
+    2300000: BodyPart1
+    2300002: BodyPart2
+    2300004: BodyPart3
+    2300006: Engine
+    2300008: Screw
+    2300010: WeapBody
+    2300012: WeapWingL
+    2300014: WeapWingR
+    2300016: WheelL
+    2300018: WheelR
+    2300020: WingL
+    2300022: WingR
+    3300000: BodyPart1
+    3300002: BodyPart2
+    3300004: BodyPart3
+    3300006: Engine
+    3300008: Screw
+    3300010: WeapBody
+    3300012: WeapWingL
+    3300014: WeapWingR
+    3300016: WheelL
+    3300018: WheelR
+    3300020: WingL
+    3300022: WingR
+    4300000: WingR
+    4300002: WingL
+    4300004: WeapWingR
+    4300006: WeapWingL
+    4300008: WeapBody
+    4300010: Screw
+    4300012: WheelR
+    4300014: WheelL
+    4300016: Engine
+    4300018: BodyPart3
+    4300020: BodyPart2
+    4300022: BodyPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

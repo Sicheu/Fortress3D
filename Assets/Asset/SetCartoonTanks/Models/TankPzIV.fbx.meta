@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: e1e8f8ce6c8a13141922fc540db9c482
+timeCreated: 1514563644
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: BarrelMount
+    100004: BarrelMount 1
+    100006: Body
+    100008: BodyShake
+    100010: BoneBarrel
+    100012: BoneBarreTilt
+    100014: BoneBody
+    100016: BoneTurret
+    100018: BoneWheel_L1
+    100020: BoneWheel_L2
+    100022: BoneWheel_R1
+    100024: BoneWheel_R2
+    100026: GunEnd
+    100028: root
+    100030: //RootNode
+    100032: Turret
+    100034: Wheel_L1
+    100036: Wheel_L2
+    100038: Wheel_R1
+    100040: Wheel_R2
+    100042: BoneTurretTurn
+    400000: Barrel
+    400002: BarrelMount
+    400004: BarrelMount 1
+    400006: Body
+    400008: BodyShake
+    400010: BoneBarrel
+    400012: BoneBarreTilt
+    400014: BoneBody
+    400016: BoneTurret
+    400018: BoneWheel_L1
+    400020: BoneWheel_L2
+    400022: BoneWheel_R1
+    400024: BoneWheel_R2
+    400026: GunEnd
+    400028: root
+    400030: //RootNode
+    400032: Turret
+    400034: Wheel_L1
+    400036: Wheel_L2
+    400038: Wheel_R1
+    400040: Wheel_R2
+    400042: BoneTurretTurn
+    2300000: Barrel
+    2300002: BarrelMount
+    2300004: BarrelMount 1
+    2300006: Body
+    2300008: Turret
+    2300010: Wheel_L1
+    2300012: Wheel_L2
+    2300014: Wheel_R1
+    2300016: Wheel_R2
+    3300000: Barrel
+    3300002: BarrelMount
+    3300004: BarrelMount 1
+    3300006: Body
+    3300008: Turret
+    3300010: Wheel_L1
+    3300012: Wheel_L2
+    3300014: Wheel_R1
+    3300016: Wheel_R2
+    4300000: Wheel_R2
+    4300002: Wheel_R1
+    4300004: Wheel_L2
+    4300006: Wheel_L1
+    4300008: Barrel
+    4300010: BarrelMount
+    4300012: BarrelMount
+    4300014: Turret
+    4300016: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

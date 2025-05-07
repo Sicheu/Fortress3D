@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: fd57f1bc2623d714d98e6b5ffdbc1639
+timeCreated: 1518112154
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barre2
+    100002: Barre3
+    100004: Barrel1
+    100006: Boat1
+    100008: Boat2
+    100010: Body
+    100012: BoneBarrel1
+    100014: BoneBarrel2
+    100016: BoneBarrel3
+    100018: BoneBoatL
+    100020: BoneBoatR
+    100022: BoneBody
+    100024: BoneBodyShake
+    100026: BoneRopeL1a
+    100028: BoneRopeL1b
+    100030: BoneRopeL2a
+    100032: BoneRopeL2b
+    100034: BoneRopeR1a
+    100036: BoneRopeR1b
+    100038: BoneRopeR2a
+    100040: BoneRopeR2b
+    100042: BoneRudder
+    100044: BoneScrew
+    100046: BoneTurret1
+    100048: BoneTurret2
+    100050: BoneTurret3
+    100052: BoneTurretTurn1
+    100054: BoneTurretTurn2
+    100056: BoneTurretTurn3
+    100058: Cable1
+    100060: Cable2
+    100062: Cable3
+    100064: Cable4
+    100066: Cable5
+    100068: Cockpit
+    100070: Engine
+    100072: GunEnd1
+    100074: GunEnd2
+    100076: GunEnd3
+    100078: root
+    100080: Rudder
+    100082: Screw
+    100084: //RootNode
+    100086: Turret1
+    100088: Turret2
+    100090: Turret3
+    400000: Barre2
+    400002: Barre3
+    400004: Barrel1
+    400006: Boat1
+    400008: Boat2
+    400010: Body
+    400012: BoneBarrel1
+    400014: BoneBarrel2
+    400016: BoneBarrel3
+    400018: BoneBoatL
+    400020: BoneBoatR
+    400022: BoneBody
+    400024: BoneBodyShake
+    400026: BoneRopeL1a
+    400028: BoneRopeL1b
+    400030: BoneRopeL2a
+    400032: BoneRopeL2b
+    400034: BoneRopeR1a
+    400036: BoneRopeR1b
+    400038: BoneRopeR2a
+    400040: BoneRopeR2b
+    400042: BoneRudder
+    400044: BoneScrew
+    400046: BoneTurret1
+    400048: BoneTurret2
+    400050: BoneTurret3
+    400052: BoneTurretTurn1
+    400054: BoneTurretTurn2
+    400056: BoneTurretTurn3
+    400058: Cable1
+    400060: Cable2
+    400062: Cable3
+    400064: Cable4
+    400066: Cable5
+    400068: Cockpit
+    400070: Engine
+    400072: GunEnd1
+    400074: GunEnd2
+    400076: GunEnd3
+    400078: root
+    400080: Rudder
+    400082: Screw
+    400084: //RootNode
+    400086: Turret1
+    400088: Turret2
+    400090: Turret3
+    2300000: Barre2
+    2300002: Barre3
+    2300004: Barrel1
+    2300006: Boat1
+    2300008: Boat2
+    2300010: Body
+    2300012: Cable1
+    2300014: Cable2
+    2300016: Cable3
+    2300018: Cable4
+    2300020: Cable5
+    2300022: Cockpit
+    2300024: Engine
+    2300026: Rudder
+    2300028: Screw
+    2300030: Turret1
+    2300032: Turret2
+    2300034: Turret3
+    3300000: Barre2
+    3300002: Barre3
+    3300004: Barrel1
+    3300006: Boat1
+    3300008: Boat2
+    3300010: Body
+    3300012: Cable1
+    3300014: Cable2
+    3300016: Cable3
+    3300018: Cable4
+    3300020: Cable5
+    3300022: Cockpit
+    3300024: Engine
+    3300026: Rudder
+    3300028: Screw
+    3300030: Turret1
+    3300032: Turret2
+    3300034: Turret3
+    4300000: Engine
+    4300002: Turret1
+    4300004: Barrel1
+    4300006: Body
+    4300008: Cable1
+    4300010: Cockpit
+    4300012: Barre2
+    4300014: Turret2
+    4300016: Barre3
+    4300018: Turret3
+    4300020: Screw
+    4300022: Rudder
+    4300024: Cable5
+    4300026: Cable4
+    4300028: Cable3
+    4300030: Cable2
+    4300032: Boat1
+    4300034: Boat2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

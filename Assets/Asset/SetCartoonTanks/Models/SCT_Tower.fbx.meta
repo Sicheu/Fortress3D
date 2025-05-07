@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 9025fcfe99b76e64d9ab37cf5d705f10
+timeCreated: 1514900747
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: BarrelMount
+    100004: Body
+    100006: Body_Fragment_00
+    100008: Body_Fragment_01
+    100010: Body_Fragment_02
+    100012: Body_Fragment_03
+    100014: Body_Fragment_04
+    100016: Body_Fragments
+    100018: BoneBarrel
+    100020: BoneBarreTilt
+    100022: BoneBody
+    100024: BoneTurret
+    100026: GunEnd
+    100028: root
+    100030: sandbag00
+    100032: sandbag01
+    100034: sandbag02
+    100036: sandbag03
+    100038: sandbag04
+    100040: sandbag05
+    100042: sandbag06
+    100044: sandbag07
+    100046: sandbag08
+    100048: sandbag09
+    100050: sandbag10
+    100052: sandbag11
+    100054: SandBags
+    100056: sphere
+    100058: //RootNode
+    100060: Turret
+    100062: BoneTurretTurn
+    400000: Barrel
+    400002: BarrelMount
+    400004: Body
+    400006: Body_Fragment_00
+    400008: Body_Fragment_01
+    400010: Body_Fragment_02
+    400012: Body_Fragment_03
+    400014: Body_Fragment_04
+    400016: Body_Fragments
+    400018: BoneBarrel
+    400020: BoneBarreTilt
+    400022: BoneBody
+    400024: BoneTurret
+    400026: GunEnd
+    400028: root
+    400030: sandbag00
+    400032: sandbag01
+    400034: sandbag02
+    400036: sandbag03
+    400038: sandbag04
+    400040: sandbag05
+    400042: sandbag06
+    400044: sandbag07
+    400046: sandbag08
+    400048: sandbag09
+    400050: sandbag10
+    400052: sandbag11
+    400054: SandBags
+    400056: sphere
+    400058: //RootNode
+    400060: Turret
+    400062: BoneTurretTurn
+    2300000: Barrel
+    2300002: BarrelMount
+    2300004: Body
+    2300006: Body_Fragment_00
+    2300008: Body_Fragment_01
+    2300010: Body_Fragment_02
+    2300012: Body_Fragment_03
+    2300014: Body_Fragment_04
+    2300016: sandbag00
+    2300018: sandbag01
+    2300020: sandbag02
+    2300022: sandbag03
+    2300024: sandbag04
+    2300026: sandbag05
+    2300028: sandbag06
+    2300030: sandbag07
+    2300032: sandbag08
+    2300034: sandbag09
+    2300036: sandbag10
+    2300038: sandbag11
+    2300040: sphere
+    2300042: Turret
+    3300000: Barrel
+    3300002: BarrelMount
+    3300004: Body
+    3300006: Body_Fragment_00
+    3300008: Body_Fragment_01
+    3300010: Body_Fragment_02
+    3300012: Body_Fragment_03
+    3300014: Body_Fragment_04
+    3300016: sandbag00
+    3300018: sandbag01
+    3300020: sandbag02
+    3300022: sandbag03
+    3300024: sandbag04
+    3300026: sandbag05
+    3300028: sandbag06
+    3300030: sandbag07
+    3300032: sandbag08
+    3300034: sandbag09
+    3300036: sandbag10
+    3300038: sandbag11
+    3300040: sphere
+    3300042: Turret
+    4300000: Barrel
+    4300002: BarrelMount
+    4300004: sphere
+    4300006: Body_Fragment_00
+    4300008: Body_Fragment_01
+    4300010: Body_Fragment_02
+    4300012: Body_Fragment_03
+    4300014: Body_Fragment_04
+    4300016: Body
+    4300018: sandbag00
+    4300020: sandbag01
+    4300022: sandbag02
+    4300024: sandbag03
+    4300026: sandbag04
+    4300028: sandbag05
+    4300030: sandbag06
+    4300032: sandbag07
+    4300034: sandbag08
+    4300036: sandbag09
+    4300038: sandbag10
+    4300040: sandbag11
+    4300042: Turret
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

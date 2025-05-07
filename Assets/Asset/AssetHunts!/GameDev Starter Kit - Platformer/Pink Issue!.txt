@@ -1,0 +1,18 @@
+Are you seeing pink materials after importing this Asset Pack?
+
+🟥 Issue:
+This happens when your project is using a different Render Pipeline than the default.
+
+🟩 Fix:
+
+01. Go to the Convert Render Pipeline folder inside the asset pack.
+
+02. Open either the [URP] or [HDRP] .unitypackage based on the render pipeline you're using.
+
+🟨 Need more help?
+Contact AssetHunts support
+📫 support@assethunts.com
+
+🟨 Join the Community!
+Be part of the AssetHunts GameDev Community
+🕹️ https://discord.gg/y8xN93JSzZ
